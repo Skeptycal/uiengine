@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "lint-staged": "^8.0.4",
-    "pug": "2.0.3"
+    "pug": "3.0.1"
   },
   "peerDependencies": {
     "pug": "^2.0.3"
