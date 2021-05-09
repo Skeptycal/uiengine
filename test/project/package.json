@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "ejs": "2.6.1",
-    "handlebars": "4.0.12",
+    "handlebars": "4.7.7",
     "marko": "4.13.8",
     "prop-types": "15.6.2",
     "pug": "2.0.3",
